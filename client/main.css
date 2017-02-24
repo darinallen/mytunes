@@ -1,0 +1,13 @@
+.libraryEntryView:hover {
+  cursor: pointer;
+  color: blue;
+}
+
+.libraryView {
+  margin-bottom: 20px;
+}
+
+.songQueueEntryView:hover {
+  cursor: pointer;
+  color: blue;
+}
